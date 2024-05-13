@@ -1,27 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # GOTHAM
 
 Welcome to Gotham, a Rails-based application designed to manage and present information pertaining to fighting events, fighters, and associated multimedia content. Dive into a platform that allows you to structure, organize, and showcase fighting events, complete with rich details and associated imagery.
